@@ -18,4 +18,8 @@ I have created a new LLM-Prompt-Recovery repo for this.
 
 mamba activate kllmpr
 
+#### Friday, March 1, 2024
+
+Continue digging into the workings of gemma.
+
 
