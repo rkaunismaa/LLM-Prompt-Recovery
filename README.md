@@ -22,4 +22,8 @@ mamba activate kllmpr
 
 Continue digging into the workings of gemma.
 
+#### Thursday, March 7, 2024
+
+Keep at it ... 
+
 
